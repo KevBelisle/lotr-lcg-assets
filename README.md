@@ -1,6 +1,6 @@
 # Lord of the Rings LCG Assets
 
-A collection of visual assets for the Lord of the Rings LCG.
+A collection of visual assets for the Lord of the Rings LCG that I initially created while working on **[LotR.CardGame.Tools](https://lotr.cardgame.tools)**.
 
 ## Icons
 
