@@ -2,6 +2,30 @@
 
 A collection of visual assets for the Lord of the Rings LCG.
 
+## Icons
+
+The Lord of the Rings LCG uses many, many different icons.
+
+#### Contribution guidelines
+
+For consistency reasons, all SVG icons/symbols should follow these guidelines:
+
+- the artboard should be sized to 1 in x 1 in
+- the actual icon should be centered and approximately 0.9 in x 0.9 in
+- all `<path>` components should have the `fill="currentColor"` property (this allows easily setting the color in CSS)
+
+### Expansion Symbols
+
+These symbols are featured in the bottom right of all cards, next to the card number, and help identify which product the cards came from.
+
+### Encounter Set Icons
+
+These symbols are featured on the encounter cards, indicating which encounter set they are part of.
+
+### Game Icons
+
+These are icons used on cards for stats, spheres, etc.
+
 ## Fonts
 
 The Lord of the Rings LCG uses a variety of fonts on the cards, in the rulebooks, etc.
