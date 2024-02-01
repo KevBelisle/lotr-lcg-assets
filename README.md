@@ -6,14 +6,6 @@ A collection of visual assets for the Lord of the Rings LCG.
 
 The Lord of the Rings LCG uses many, many different icons.
 
-#### Contribution guidelines
-
-For consistency reasons, all SVG icons/symbols should follow these guidelines:
-
-- the artboard should be sized to 1 in x 1 in
-- the actual icon should be centered and approximately 0.9 in x 0.9 in
-- all `<path>` components should have the `fill="currentColor"` property (this allows easily setting the color in CSS)
-
 ### Expansion Symbols
 
 These symbols are featured in the bottom right of all cards, next to the card number, and help identify which product the cards came from.
@@ -33,11 +25,21 @@ The Lord of the Rings LCG uses a variety of fonts on the cards, in the rulebooks
 ### Vafthrudnir-Ext
 
 The Vafthrudnir font is mainly used for the title / name of cards.
-Some of the card names feature diacritics (eg: accents) on certain characters, which were not included in any of the versions of the font I could find.
+Some of the card names feature diacritics (eg: accents) on certain characters, which were not included in any of the versions of the font I could find, so I added them.
 
-I imported the font into [GlyphrStudio](https://www.glyphrstudio.com/app/) and added them manually.
+## Contribution guidelines
 
-To contribute, load the `vafthrudnir-ext - Glyphr Project.txt` file into Glyphr and make your edits, and open a pull request with:
+### Icons
+
+For consistency reasons, all SVG icons/symbols should follow these guidelines:
+
+- the artboard should be sized to 1 in x 1 in
+- the actual icon should be centered and approximately 0.9 in x 0.9 in
+- all `<path>` components should have the `fill="currentColor"` property (this allows easily setting the color in CSS)
+
+### Vafthrudnir-Ext
+
+To contribute, load the `vafthrudnir-ext - Glyphr Project.txt` file into [GlyphrStudio](https://www.glyphrstudio.com/app/) and make your edits, and open a pull request with:
 
 - the updated `vafthrudnir-ext - Glyphr Project.txt` file
 - the updated `.woff` and `.woff2` font files
