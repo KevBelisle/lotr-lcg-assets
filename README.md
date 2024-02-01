@@ -14,6 +14,8 @@ These symbols are featured in the bottom right of all cards, next to the card nu
 
 These symbols are featured on the encounter cards, indicating which encounter set they are part of.
 
+These symbols were orginally sourced from [El Refugio del Dúnadan](https://geografiaesdlalcg.wordpress.com/descargas/).
+
 ### Game Icons
 
 These are icons used on cards for stats, spheres, etc.
