@@ -31,6 +31,8 @@ Some of the card names feature diacritics (eg: accents) on certain characters, w
 
 ## Contribution guidelines
 
+If you want to contribute, you can find the list of open issues here: https://github.com/KevBelisle/lotr-lcg-assets/issues
+
 ### Icons
 
 For consistency reasons, all SVG icons/symbols should follow these guidelines:
