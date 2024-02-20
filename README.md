@@ -43,7 +43,7 @@ For consistency reasons, all SVG icons/symbols should follow these guidelines:
 
 ### Vafthrudnir-Ext
 
-To contribute, load the `vafthrudnir-ext - Glyphr Project.txt` file into [GlyphrStudio](https://www.glyphrstudio.com/app/) and make your edits, and open a pull request with:
+To contribute, load the `Vafthrudnir-Ext - Glyphr Studio Project.gs2` file into [GlyphrStudio](https://www.glyphrstudio.com/app/) and make your edits, and open a pull request with:
 
-- the updated `vafthrudnir-ext - Glyphr Project.txt` file
-- the updated `.woff` and `.woff2` font files
+- the updated `Vafthrudnir-Ext - Glyphr Studio Project.gs2` file
+- the updated `.otf` font file
