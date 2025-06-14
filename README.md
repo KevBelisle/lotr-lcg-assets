@@ -43,6 +43,8 @@ For consistency reasons, all SVG icons/symbols should follow these guidelines:
 
 ### Vafthrudnir-Ext
 
+This is an extended version of the Vafthrundir font, which includes accented characters as well as the german ß glyph.
+
 To contribute, load the `Vafthrudnir-Ext - Glyphr Studio Project.gs2` file into [GlyphrStudio](https://www.glyphrstudio.com/app/) and make your edits, and open a pull request with:
 
 - the updated `Vafthrudnir-Ext - Glyphr Studio Project.gs2` file
