@@ -1,0 +1,15 @@
+{
+  "name": "lotr-lcg-assets",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "normalize-svgs": "svgo -rf ./icons -o ./icons --pretty"
+  },
+  "dependencies": {
+    "svgo": "^3.3.2"
+  }
+}

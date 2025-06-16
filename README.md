@@ -41,6 +41,11 @@ For consistency reasons, all SVG icons/symbols should follow these guidelines:
 - the actual icon should be centered and approximately 0.9 in x 0.9 in
 - all `<path>` components should have the `fill="currentColor"` property (this allows easily setting the color in CSS)
 
+Before sending a PR, please run the following commands to normalize all SVGs:
+
+- `npm install`
+- `npm run normalize-svgs`
+
 ### Vafthrudnir-Ext
 
 This is an extended version of the Vafthrundir font, which includes accented characters as well as the german ß glyph.
