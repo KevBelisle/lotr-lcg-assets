@@ -32,17 +32,17 @@ jobs:
           cache: "npm"
 
       - name: Install dependencies
-        working-directory: ./lotr-lcg-assets-preview
+        working-directory: ./ghpages-preview
         run: npm install
 
       - name: Production build
-        working-directory: ./lotr-lcg-assets-preview
+        working-directory: ./ghpages-preview
         run: npm run build
 
       - name: Upload static files as artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./lotr-lcg-assets-preview/dist/
+          path: ./ghpages-preview/dist/
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
