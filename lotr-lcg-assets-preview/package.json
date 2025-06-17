@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && vite build --base=/lotr-lcg-assets/",
     "lint": "eslint .",
     "preview": "vite preview",
     "postinstall": "cp -r ../fonts/ ./src/assets/fonts && cp -r ../product-images/ ./public/product-images && cp -r ../icons/ ./src/assets/icons"
